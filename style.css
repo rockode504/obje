@@ -1,0 +1,27 @@
+body 
+{
+    background-image: linear-gradient(to right top, #d9259d, #18c1b3, #ff7300);
+    font-family: 'Comfortaa', cursive;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Comfortaa', cursive;
+}
+
+#Guitar #Library #Speaker #Setup #Balcony #Clock #TV #Temple #Printer #SchoolBooks 
+{
+    font-size: 18px;
+    font-family: 'Comfortaa', cursive;
+    border-radius: 50px;
+    width: 75%;
+    margin: 0px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px darkcyan;
+    border-radius: 15px;
+}

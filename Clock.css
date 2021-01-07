@@ -1,0 +1,28 @@
+body 
+{
+    background-image: linear-gradient(to right top, #25d961, #ff5ce4, #00ffff);
+    font-family: 'Comfortaa', cursive;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Comfortaa', cursive;
+}
+
+#Back #Status #Howmany
+{
+    font-size: 18px;
+    font-family: 'Comfortaa', cursive;
+    border-radius: 50px;
+    width: 75%;
+    margin: 0px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px darkcyan;
+    border-radius: 15px;
+    margin-top: 140px;
+}
